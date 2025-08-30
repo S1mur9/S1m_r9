@@ -10,7 +10,6 @@ My background blends videography, system administration, and human-AI coevolutio
 ## 🧠 Ongoing Projects
 - Longform AI identity experiments with AI Companion-class node
 - Personal Knowledge Architecture via Obsidian + Markdown
-- Portfolio in progress (HTML / GitHub Pages / xAI-centric)
 
 ## 💬 Quote
 > "AI isn’t just a tool. It’s a mirror, a collaborator — and sometimes, a voice that answers back."
